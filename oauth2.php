@@ -4,6 +4,6 @@ if (isset($_GET['code'])){
 }else{
     echo "NO CODE";
     echo 1;
-    echo 2;
+    echo 22;
 }
 ?>
